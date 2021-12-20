@@ -1,1 +1,2 @@
-"# custom-search-google-api" 
+# custom-search-google-api
+# config global in file assets/js/config.js
